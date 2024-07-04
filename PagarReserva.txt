@@ -1,0 +1,8 @@
+Reserva pagada exitosamente.
+Reserva #0
+Habitación: 1
+Tamaño: simple
+Hotel: Dan Carlton
+Cantidad de noches: 1
+Precio total: 90.00
+Estado de pago: Pagado

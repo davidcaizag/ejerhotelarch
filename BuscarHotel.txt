@@ -1,0 +1,6 @@
+Ingrese el hotel donde desea buscar la habitación: Dan Carlton
+#		Tamaño		Hotel		Precio
+1		simple		Dan Carlton		90.00
+2		doble		Dan Carlton		120.00
+3		triple		Dan Carlton		160.00
+Elija la habitación que desea reservar: 2

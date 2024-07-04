@@ -1,0 +1,6 @@
+Ingrese el tamaño de habitación que desea buscar: simple
+#		Tamaño		Hotel		Precio
+1		simple		Dan Carlton		90.00
+4		simple		Swissotel		65.00
+7		simple		Sheraton		85.00
+Elija la habitación que desea reservar: 1
